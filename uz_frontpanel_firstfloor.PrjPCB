@@ -138,16 +138,24 @@ Name=ProjectNameCustom
 Value=uz_frontpanel_firstfloor
 
 [Parameter3]
-Name=FinDate
-Value=06/24
+Name=Project
+Value=uz_frontpanel_firstfloor
 
 [Parameter4]
-Name=AuthorParam
-Value=M. Hoerner
+Name=ProjectDate
+Value=07/24
 
 [Parameter5]
+Name=FinDate
+Value=07/24
+
+[Parameter6]
+Name=AuthorParam
+Value=M. Geier / M. Hoerner
+
+[Parameter7]
 Name=Author
-Value=M. Hoerner
+Value=M. Geier / M. Hoerner
 
 [Configuration1]
 Name=Sources
