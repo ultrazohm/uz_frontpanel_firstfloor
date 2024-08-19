@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=isoCAN0|SchDesignator=isoCAN0|FileName=isoCAN.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=isoCAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=isoCAN1|SchDesignator=isoCAN1|FileName=isoCAN.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=isoCAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
