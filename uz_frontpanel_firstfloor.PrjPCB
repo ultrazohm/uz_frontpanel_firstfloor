@@ -129,7 +129,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -140,19 +140,21 @@ UniqueID=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=R?A|UniqueId=\GRIOBAQG\CIDMJTAX|Kind=1|AlternatePart= 
+Variation2=Designator=R?B|UniqueId=\ZCZVLJXW\CIDMJTAX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=M. Geier / M. Hoerner
+Name=ProjectRevision
+Value=Rev02
 
 [Parameter2]
-Name=AuthorParam
-Value=M. Geier / M. Hoerner
+Name=ProjectNameCustom
+Value=uz_frontpanel_firstfloor
 
 [Parameter3]
-Name=FinDate
+Name=ProjectDate
 Value=07/24
 
 [Parameter4]
@@ -160,16 +162,16 @@ Name=Project
 Value=uz_frontpanel_firstfloor
 
 [Parameter5]
-Name=ProjectDate
-Value=07/24
+Name=FinDate
+Value=08/24
 
 [Parameter6]
-Name=ProjectNameCustom
-Value=uz_frontpanel_firstfloor
+Name=AuthorParam
+Value=MG / MH / AG
 
 [Parameter7]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=MG / MH / AG
 
 [Configuration1]
 Name=Sources
