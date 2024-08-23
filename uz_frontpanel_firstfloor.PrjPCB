@@ -146,32 +146,32 @@ Variation2=Designator=R?B|UniqueId=\ZCZVLJXW\CIDMJTAX|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev02
+Name=Author
+Value=MG / MH / AG
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=uz_frontpanel_firstfloor
+Name=AuthorParam
+Value=MG / MH / AG
 
 [Parameter3]
-Name=ProjectDate
-Value=07/24
+Name=FinDate
+Value=08/24
 
 [Parameter4]
 Name=Project
 Value=uz_frontpanel_firstfloor
 
 [Parameter5]
-Name=FinDate
-Value=08/24
+Name=ProjectDate
+Value=07/24
 
 [Parameter6]
-Name=AuthorParam
-Value=MG / MH / AG
+Name=ProjectNameCustom
+Value=uz_frontpanel_firstfloor
 
 [Parameter7]
-Name=Author
-Value=MG / MH / AG
+Name=ProjectRevision
+Value=Rev02
 
 [Configuration1]
 Name=Sources
