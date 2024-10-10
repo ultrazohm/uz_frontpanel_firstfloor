@@ -708,8 +708,8 @@ OpenOutput7=0
 OutputFilePath8=C:\Users\ga92wum\git\UltraZohm\PCB\ultrazohm_digital_optical_16tx_3rx_2vxx\Project Outputs for Digital_Optical_18Tx_14Tx4Rx_3vxx\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for uz_frontpanel_firstfloor
-OutputPathMedia8=
-OutputPathMediaValue8=
+OutputPathMedia8==ProjectRevision
+OutputPathMediaValue8==ProjectRevision
 OutputPathOutputer8=[Output Type]
 OutputPathOutputerPrefix8=
 OutputPathOutputerValue8=
@@ -717,7 +717,7 @@ OutputFileName8=
 OutputFileNameMulti8=='PickPlace_' + ProjectName + '_' + ProjectRevision
 UseOutputNameForMulti8=0
 OutputFileNameSpecial8=
-OpenOutput8=1
+OpenOutput8=0
 OutputFilePath9=C:\Users\ga92wum\git\UltraZohm\PCB\uz_per_rtc_mac\Project Outputs for UZ_per_cb_upgrade\Rev01\
 ReleaseManaged9=1
 OutputBasePath9=Project Outputs for uz_frontpanel_firstfloor

@@ -147,7 +147,7 @@ ParamVariationCount=0
 
 [Parameter1]
 Name=ProjectRevision
-Value=Rev02
+Value=Rev01
 
 [Parameter2]
 Name=ProjectNameCustom
