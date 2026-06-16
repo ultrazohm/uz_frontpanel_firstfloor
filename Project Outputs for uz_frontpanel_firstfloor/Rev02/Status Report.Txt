@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [Default] of PCB Document [uz_frontpanel_firstfloor.PcbDoc]
+   Generated File[Pick Place for uz_frontpanel_firstfloor(Default).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:23:46 On 16.06.2026

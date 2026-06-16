@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: uz_frontpanel_firstfloor.PcbDoc   16.06.2026  21:23:36
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : uz_frontpanel_firstfloor.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             32        PTH        6.12inch (155.52mm)
+T2      12mil (0.3mm)                                             Round             24        PTH        5.51inch (139.85mm)
+T3      43mil (1.09mm)                                            Round             18        PTH        3.31inch (84.15mm)
+T4      43mil (1.1mm)                                             Round             14        PTH        1.60inch (40.64mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        2.52inch (64.05mm)
+T6      94mil (2.4mm)           +/-3mil (0.076mm)                 Round             8         NPTH       2.22inch (56.50mm)
+T7      134mil (3.4mm)          +/-3mil (0.076mm)                 Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              101
+
+Total Processing Time (hh:mm:ss) : 00:00:00

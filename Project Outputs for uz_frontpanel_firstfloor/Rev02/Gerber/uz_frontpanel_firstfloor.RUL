@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\GIT\UltraZohm\pcb_design\uz_frontpanel_firstfloor\uz_frontpanel_firstfloor.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_FGND|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Trenz|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.54
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_D100_VIA|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Power|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_FGND_AETH|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_HS_VIA|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_HS_PADS|Scope=Board|Minimum=3.94
